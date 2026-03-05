@@ -83,6 +83,5 @@ Displays notifications triggered by state changes showing real-time updates.
 ✅ Global state management - Avoiding prop drilling  
 ✅ State updates across components - Synchronization  
 
+<img width="997" height="933" alt="Screenshot 2026-03-05 102306" src="https://github.com/user-attachments/assets/09d7b3ca-0aee-4795-8ce3-a9ec3aa754a8" />
 
-![alt text](image.png)
-![alt text](image-1.png)
