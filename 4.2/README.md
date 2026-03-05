@@ -139,6 +139,6 @@ Complete audit trail of all operations:
 - Immer for immutable updates
 - Slice API for simplified reducer creation
 - Best practices built-in
+  
+<img width="1001" height="1000" alt="Screenshot 2026-03-05 102420" src="https://github.com/user-attachments/assets/16f6a86d-e3cb-460b-a681-e4f8e0278c10" />
 
-![alt text](image.png)
-![alt text](image-1.png)
